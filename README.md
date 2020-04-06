@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Title
 
 The Rick And Morty Search App
@@ -14,3 +15,10 @@ https://rickandmortyapi.com/api/
 # Technologies
 
 ReactJS
+=======
+Title
+
+The Rick And Morty Search App
+
+#Motivation
+>>>>>>> 4774b1469efd60b8cd494505d3cb8e360a47b4d5
