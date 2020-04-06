@@ -15,8 +15,8 @@ https://rickandmortyapi.com/api/
 # Technologies
 
 ### ReactJS
-=======
-Title
+
+#Title
 
 The Rick And Morty Search App
 
