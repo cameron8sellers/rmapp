@@ -7,14 +7,16 @@ function CharacterList(props) {
     return (
       <>
         <Link key={i} to={`/Profile/${d.name}`}>
-          <img key={d.url} src={d.image} alt="null" />
-          <li key={d.id}>{d.name}</li>
+          <img key={d.url} src={d.image} alt="null" className="list-image" />
+          <li key={d.id} className="list-name">
+            {d.name}
+          </li>
         </Link>
       </>
     );
   });
 
-  return <ul>{CharNames}</ul>;
+  return <ul className="names-list">{CharNames}</ul>;
 }
 
 export default CharacterList;
