@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Title
 
 The Rick And Morty Search App
@@ -15,9 +15,4 @@ https://rickandmortyapi.com/api/
 # Technologies
 
 ### ReactJS
-
-#Title
-
-The Rick And Morty Search App
-
 
